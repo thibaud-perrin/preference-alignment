@@ -27,7 +27,7 @@ DPO simplifies preference alignment by eliminating the need for separate reward 
 
 ---
 
-### 2Odds Ratio Preference Optimization (ORPO)
+### Odds Ratio Preference Optimization (ORPO)
 ORPO introduces a unified approach to instruction tuning and preference alignment, combining:
 - Negative log-likelihood loss with an odds ratio term at the token level.
 - A single-stage training process that eliminates the need for reference models.
