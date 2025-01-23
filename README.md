@@ -1,3 +1,5 @@
+
+![DALL·E-2025-01-23-09 33](https://github.com/user-attachments/assets/41335c7c-1862-40ff-a5dc-4eef8acbbb3b)
 # Preference Alignment
 
 This repository explores methods for aligning language models with human preferences. While supervised fine-tuning adapts models to specific tasks or domains, preference alignment ensures that their outputs match human expectations and values. The focus here is on two innovative algorithms: **Direct Preference Optimization (DPO)** and **Odds Ratio Preference Optimization (ORPO)**.
